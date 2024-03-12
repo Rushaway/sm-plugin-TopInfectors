@@ -40,7 +40,7 @@ project:
 
     - name: dynamicchannels
       type: git
-      repo: https://github.com/srcdslab/DynamicChannels
+      repo: https://github.com/srcdslab/sm-plugin-DynamicChannels
       unpack:
       - source: /scripting/include
         dest: /addons/sourcemod/scripting/include
